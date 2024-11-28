@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "id" : 1,
+            "question" : "Funciona con Android 13?",
+            "answer" : "Así es."
+        },
+        {
+            "id" : 2,
+            "question" : "Funciona con Android 10?",
+            "answer" : "Hola. Te informamos, en este caso, no es compatible con Android 10. Quedamos a tu disposición. Saludos."
+        },
+        {
+            "id" : 3,
+            "question" : "Sirve con focos rbg?",
+            "answer" : "Hola, te informamos que funciona con bombillos inteligentes. Además, te recordamos que este producto cuenta con envío gratis. Aguardamos tu compra, saludos."
+        },
+        {
+            "id" : 4,
+            "question" : "Deseo preguntar porque hice mi compra por error",
+            "answer" : "Hola. Estamos acá para asesorarte, sin embargo, no conseguimos entender tu consulta, ¿podrías brindarnos más detalles? Quedamos a tu disposición."
+        },
+        {
+            "id" : 5,
+            "question" : "Deseo la cancelación por comprar por error",
+            "answer" : "Hola. Para realizar la cancelación de tu compra, dirígete a la sección “Mis compras”, en el costado derecho haz clic sobre los tres puntos, selecciona la opción \"Cancelar compra\". Saludos."
+        },
+        {
+            "id" : 5,
+            "question" : "Hola qué probabilidad hay que me roben mi producto en el transcurso del camino .?",
+            "answer" : "Hola. Queremos que sepas que tu producto cuenta con compra protegida, tienes 28 días de cobertura desde que compraste, si no te llega el producto. Saludos."
+        },
+        {
+            "id" : 6,
+            "question" : "Buenas tardes, la publicación dice paga a meses, pero al momento de comprar no da opción a meses. como puedo pagar a mes",
+            "answer" : "Hola. Ante este inconveniente, te sugerimos contactar al portal de ayuda de Mercado Libre, haciendo clic, desde tu cuenta, en el botón \"Ayuda\" que se encuentra en el margen superior del menú principal. Saludos."
+        },
+        {
+            "id" : 7,
+            "question" : "Buenos días, realizan factura?",
+            "answer" : "Hola. Sí. Si requieres factura, debes completar en el proceso de tu compra los datos fiscales como RFC, Domicilio fiscal, Nombre Completo o Razón Social, uso de CFDI y Tipo de Régimen previo a confirmar la misma. En caso de no seleccionar la opción correcta para facturar con RFC, se generará CFDI con RFC genérico autorizado por el SAT. Te recordamos que este producto cuenta con envío gratis. Saludos."
+        }
+    ]
+}

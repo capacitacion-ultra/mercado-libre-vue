@@ -1,0 +1,32 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "percentage": 100,
+            "date": "2023-03-09",
+            "comment": "Excelente sonido, las luces marcan muy bien la hora. Le gustó mucho a mi novia, quedé más seco que el estado de nuevo león c: ⭐⭐⭐⭐⭐",
+            "quantityLike": 71
+        },
+        {
+            "id": 2,
+            "percentage": 15,
+            "date": "2023-03-25",
+            "comment": "Producto que solo me funcionó 15 días, después se desconectó del wifi y no pude jamás volver a conectarlo, instalé y desinstale y jamás volvió a funcionar, lamentablemente ya pasó la fecha de devolución, pero en mi opinión pésimo producto, no volvería a comprar jamás, no sé arriesguen.",
+            "quantityLike": 50
+        },
+        {
+            "id": 3,
+            "percentage": 100,
+            "date": "2023-03-12",
+            "comment": "El dispositivo llegó sin ningún defecto, la versión con reloj definitivamente es la mejor opción si no quieres estar preguntando la hora al asistente. En si el dispositivo tiene muchas funciones útiles para hacer tu smart home como el sensor ultrasonico para detectar presencia o ausencia o el sensor de temperatura.",
+            "quantityLike": 32
+        },
+        {
+            "id": 4,
+            "percentage": 100,
+            "date": "2023-03-12",
+            "comment": "Lorem ipsum",
+            "quantityLike": 20
+        }
+    ]
+}
