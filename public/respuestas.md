@@ -1,7 +1,3 @@
-Aquí tienes las respuestas correctas para las preguntas del examen:
-
----
-
 ### **Respuestas Correctas**
 
 #### **1.** C. Hilos Virtuales  
@@ -23,8 +19,4 @@ Aquí tienes las respuestas correctas para las preguntas del examen:
 #### **17.** A. Permiten la programación reactiva sin bloquear la ejecución.  
 #### **18.** B. Son automáticamente inmutables.  
 #### **19.** A. Usando la palabra clave `sealed`.  
-#### **20.** A. El compilador genera un error.  
-
---- 
-
-Si necesitas explicaciones detalladas para alguna respuesta, no dudes en pedírmelo. 😊
+#### **20.** A. El compilador genera un error. 
